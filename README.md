@@ -13,7 +13,7 @@ A Wee, Well Design, Wibus Products
 
 这是一款集博客与日记于一体的Typecho主题，非常的小巧可爱～～
 
-鸣谢：[@QingChiXiaoYe](https://github.com/QingChiXiaoYe), [@Musenxi](https://github.com/Musenxi)
+鸣谢：[@QingChiXiaoYe](https://github.com/QingChiXiaoYe), [@Musenxi](https://github.com/Musenxi), [@mx-space](/mx-space)
 
 ## Mix Pro
 
