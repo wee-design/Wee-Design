@@ -15,9 +15,9 @@ A Wee, Well Design, Wibus Products
 
 鸣谢：[@QingChiXiaoYe](https://github.com/QingChiXiaoYe), [@Musenxi](https://github.com/Musenxi), [@mx-space](https://github.com/mx-space)
 
-## Mix Pro
+## STY
 
-这是原Mix的升级版！原本是打算以付费主题出来的，但是在经过抉择后，还是选择了开源
+这是原Mix的升级版！~~原本是打算以付费主题出来的，但是在经过抉择后，还是选择了开源~~ 之后又选择了付费（）
 
 这是一款集成多种样式多种部件于一体的Typecho主题，这个主题可谓是百年没有一见的写法😂
 
